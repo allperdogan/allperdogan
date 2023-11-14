@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working at Mercedes-Benz.<br>I am currently improving myself in ".Net Core" and "Angular", so I constantly take part in different projects and bootcamps.
+I am currently working at Mercedes-Benz.<br>I am improving myself in ".Net Core" and "Angular", so I constantly take part in different projects and bootcamps.
 
 
 ## 🌐 Socials:
